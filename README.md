@@ -46,8 +46,8 @@ You can run this project in a local Jupyter environment or in Google Colab.
 
 ```
 
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/ghodkevrushabh/recommender-system-for-e-commerce.git
+cd recommender-system-for-e-commerce
 
 ```
 
