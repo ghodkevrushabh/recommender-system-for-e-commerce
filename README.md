@@ -115,4 +115,4 @@ This model answers the question: "What products would this user personally like?
 
 **Key Function:** get_similar_products(product_id)
 
-```
+
